@@ -17,6 +17,8 @@ WheelWizard is a comprehensive bike maintenance website designed to streamline b
 
 ✅ Admin Dashboard – Manage bookings, users, and service records efficiently.
 
+<img src="ss2.png" alt="ADAS-PeVision Demo" width="500">
+
 🛠 Technologies Used
 
 1. Frontend: HTML, CSS, JavaScript
@@ -26,6 +28,8 @@ WheelWizard is a comprehensive bike maintenance website designed to streamline b
 3. Database: MySQL
 
 4. Server: Apache (XAMPP)
+
+<img src="ss3.png" alt="ADAS-PeVision Demo" width="500">
    
 🛠 Installation & Setup
 
@@ -36,6 +40,8 @@ WheelWizard is a comprehensive bike maintenance website designed to streamline b
 -> cd WheelWizard
 
 2️⃣ Set Up XAMPP
+
+<img src="ss7.png" alt="ADAS-PeVision Demo" width="500">
 
 -> Download and install XAMPP from Apache Friends.
 
