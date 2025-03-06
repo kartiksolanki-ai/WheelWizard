@@ -2,7 +2,7 @@
 
 WheelWizard is a comprehensive bike maintenance website designed to streamline bike servicing, appointment scheduling, and maintenance tracking. Built using PHP, MySQL, and XAMPP, this project provides a user-friendly platform for bike owners to schedule services, track past maintenance, and access a knowledge base for common bike issues.
 
-<img src="d" alt="ADAS-PeVision Demo" width="500">
+<img src="ss1.png" alt="ADAS-PeVision Demo" width="500">
 
 
 🔥 Key Features
